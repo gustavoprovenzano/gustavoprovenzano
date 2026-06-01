@@ -27,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouz/gustavoprovenzano/snake-output/snake.svg" alt="Snake animation" />
 
 ###
