@@ -25,8 +25,12 @@
   <img width="12" />
 </div>
 
-###
+### 🐍 Meu Gráfico de Contribuições estilo Snake
 
-<img src="https://raw.githubusercontent.com/maurodesouz/gustavoprovenzano/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+</picture>
 
 ###
