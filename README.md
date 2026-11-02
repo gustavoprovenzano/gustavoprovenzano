@@ -1,44 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, eu sou o Gustavo Provenzano! 👋
 
-###
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário Senac, focado em construir uma base sólida em engenharia de software e desenvolvimento de aplicações. 
 
-<p align="left">My name is Gustavo Provenzano, from Brasil</p>
+Paralelamente aos estudos, atuo na área de suporte e atendimento na Konecta (prestando serviços para a Vivo), onde desenvolvo diariamente habilidades de resolução de problemas de TI, lógica e comunicação assertiva.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavoprovenzano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### 🛠️ Tecnologias & Ferramentas
 
-<h2 align="left">About me</h2>
+* **Linguagens e Lógica:** Java, JavaScript, Estruturas de Dados e Algoritmos
+* **Desenvolvimento Web:** HTML5, CSS3, Práticas de Front-end
+* **Ferramentas e Versionamento:** Git, GitHub
+* **Bancos de Dados:** Estruturação e modelagem lógica de dados
 
-###
+---
 
-<p align="left">
-<br>📚 Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitário Senac<br>.
-</p>
+### 🎓 Projetos Acadêmicos & Portfólio
 
-###
+Aqui no meu perfil você encontrará os laboratórios e desafios práticos que desenvolvo na faculdade, divididos principalmente em:
+* ☕ **Lógica e Algoritmos:** Exercícios profundos em Java para fixação de conceitos de POO e estruturas condicionais.
+* 🌐 **Desenvolvimento Web:** Criação de interfaces funcionais aplicando JavaScript, HTML e CSS.
+* 👥 **Projetos Integradores:** Soluções em equipe aplicando a tecnologia para resolver problemas reais de mercado.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 📫 Conecte-se comigo
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-</div>
+* **LinkedIn:** [linkedin.com/in/gustavoprovenzano](https://linkedin.com)
+* **E-mail:** g.provenzano@live.com
 
-### 🐍 Meu Gráfico de Contribuições estilo Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoprovenzano/gustavoprovenzano/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoprovenzano/gustavoprovenzano/output/github-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/gustavoprovenzano/gustavoprovenzano/output/github-snake.svg">
-</picture>
-
-###
+---
+*“A caminho de me tornar um Desenvolvedor Full Stack, um commit de cada vez.”*
